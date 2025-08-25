@@ -14,7 +14,7 @@ export const metadata = {
     default: 'NestLink',
     template: '%s | NestLink',
   },
-  description: 'Open-Source link in bio tool for content creaters, developers and enthusiasts.',
+  description: 'Link in bio tool for content creaters, developers and enthusiasts.',
 }
 
 export default function RootLayout({ children }) {

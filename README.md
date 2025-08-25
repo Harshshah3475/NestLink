@@ -7,4 +7,4 @@ LinkNest is a web application created for the purpose of managing all your socia
 - Install node modules `npm isntall`
 - Start dev Server `npm run dev`
 
-Your project is now runnign locally!
+Your project is now running locally!

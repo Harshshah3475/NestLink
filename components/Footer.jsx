@@ -14,7 +14,7 @@ export default function Footer() {
                 </div>
             </div>
 
-            <p className="text-xs">&copy; {new Date().getFullYear()} <Link href="/" className="text-primary hover:underline">MySocials</Link> All Rights Reserved.</p>
+            <p className="text-xs">&copy; {new Date().getFullYear()} <Link href="/" className="text-primary hover:underline">LinkNest</Link> All Rights Reserved.</p>
         </footer>
     )
 }
