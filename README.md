@@ -4,7 +4,7 @@ LinkNest is a web application created for the purpose of managing all your socia
 ### Setup
 - clone the github repo (https://github.com/Harshshah3475/LinkNest.git)
 - Configure env variables as given in .env.expample
-- Install node modules `npm isntall`
+- Install node modules `npm install`
 - Start dev Server `npm run dev`
 
-Your project is now running locally!
+Your project is now runnign locally!
